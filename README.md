@@ -11,12 +11,7 @@
   <br/><br/>
 
   <!-- Badges -->
-  <a href="mailto:kitsunee02@proton.me" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=1a1b26" alt="Email" />
-  </a>
-  <a href="https://t.me/yuuqii_02" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Telegram-7AA2F7?style=for-the-badge&logo=telegram&logoColor=1a1b26" alt="Telegram" />
-  </a>
+  <a href="mailto:kitsunee02@proton.me"><img src="https://img.shields.io/badge/Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=1a1b26" alt="Email" /></a><a href="https://t.me/yuuqii_02"><img src="https://img.shields.io/badge/Telegram-7AA2F7?style=for-the-badge&logo=telegram&logoColor=1a1b26" alt="Telegram" /></a>
 
   <br/><br/>
 
