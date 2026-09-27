@@ -1,23 +1,34 @@
 <div align="center">
 
-  <!-- Header Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+kitsunee02" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese+&letterSpacing=25px&duration=5012&pause=1000&color=F71818&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)](https://git.io/typing-svg)
+  
+  <img width="1366" height="766" alt="9209469" src="https://github.com/user-attachments/assets/4cf9be32-1f0b-48e1-9656-d2161b91d47e" />
 
-  <br/><br/>
+  ```yaml
+name: Kitsune
+civilian of: India
+job status: High School Student
 
-  <!-- Selected Anime GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXI0dDYwdm5qNTYyenByYWl3NXVrNWQ5OGwxcDJjYjd0bm82Zzg4diZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/bAy8xK8qcCz0A/giphy.gif" width="400" alt="Anime GIF" />
+level: Novice
+active quests:
+  [
+  "Building a custom ROM for 'blossom'",
+  "PhrovaUI",
+  "ProvaUI",
+]
+attributes: 
+  [
+  "Slow learner",
+  "Zero coding knowledge",
+  "Dumb",
+  "Clouded by darkness",
+  "Isolated",
+]
+```
 
-  <br/><br/>
+[![](https://img.shields.io/badge/telegram-F71818)](https://t.me/kitsumii02)
+[![](https://img.shields.io/badge/email-F71818)](mailto:kitsunee02@proton.me)
 
-  <!-- Badges -->
-  <a href="mailto:kitsunee02@proton.me"><img src="https://img.shields.io/badge/Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=1a1b26" alt="Email" /></a><a href="https://t.me/yuuqii_02"><img src="https://img.shields.io/badge/Telegram-7AA2F7?style=for-the-badge&logo=telegram&logoColor=1a1b26" alt="Telegram" /></a>
+![](https://img.shields.io/badge/just-adapt-F71818?style=for-the-badge)
 
-  <br/><br/>
-
-  <!-- Custom Quote Badge -->
-  <img src="https://img.shields.io/badge/%22just%20adapt%22-1a1b26?style=for-the-badge&labelColor=7AA2F7&color=1a1b26" alt="Quote" />
-
-  <br/><br/>
-
-</div>   
+</div>
