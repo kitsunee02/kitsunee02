@@ -1,34 +1,46 @@
-<div align="center">
+<div align="left">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese+&letterSpacing=25px&duration=5012&pause=1000&color=F71818&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)](https://git.io/typing-svg)
-  
-  <img width="1366" height="766" alt="9209469" src="https://github.com/user-attachments/assets/4cf9be32-1f0b-48e1-9656-d2161b91d47e" />
+<sub>わたしについて / a little about me</sub>
 
-  ```yaml
+```yaml
 name: Kitsune
-civilian of: India
-job status: High School Student
-
-level: Novice
-active quests:
-  [
-  "Building a custom ROM for 'blossom'",
-  "PhrovaUI",
-  "ProvaUI",
-]
-attributes: 
-  [
-  "Slow learner",
-  "Zero coding knowledge",
-  "Dumb",
-  "Clouded by darkness",
-  "Isolated",
-]
+alias: kitsunee02
+motto: "just adapt"
 ```
 
-[![](https://img.shields.io/badge/telegram-F71818)](https://t.me/kitsumii02)
-[![](https://img.shields.io/badge/email-F71818)](mailto:kitsunee02@proton.me)
+i've always been better at figuring things out alone.
 
-![](https://img.shields.io/badge/just-adapt-F71818?style=for-the-badge)
+not because i don't need anyone,
+but because somewhere along the way,
+i got used to keeping things to myself.
+
+i don't always know what i'm doing.
+i just keep going, quietly, at my own pace.
+
+</div>
+
+<br/>
+
+<div align="right">
+
+<sub>静かな夜に、また会いましょう。</sub>
+
+<br/>
+
+<sub>all that was lost is now a part of the music</sub>
+
+</div>
+
+<br/>
+
+<div align="left">
+  <sub>✧　月　☾　❀　…</sub>
+</div>
+
+<br/>
+
+<div align="right">
+
+[![Telegram](https://img.shields.io/badge/telegram-9B7B8C?style=flat-square&logo=telegram&logoColor=F5EDF1)](https://t.me/kitsumii02)
 
 </div>
