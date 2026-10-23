@@ -4,8 +4,9 @@
 
 ```yaml
 name: Kitsune
-alias: kitsunee02
-motto: "just adapt"
+hobby: nothing
+interests: nothing
+status: solo
 ```
 
 i've always been better at figuring things out alone.
