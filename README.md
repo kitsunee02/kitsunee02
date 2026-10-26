@@ -4,9 +4,6 @@
 
 ```yaml
 name: Kitsune
-hobby: nothing
-interests: nothing
-status: solo
 ```
 
 i've always been better at figuring things out alone.
