@@ -21,7 +21,7 @@ i just keep going, quietly, at my own pace.
 
 <div align="right">
 
-<sub>静かな夜に、また会いましょう。</sub>
+<sub>s 失われたものはすべて、今や音楽の一部です。</sub>
 
 <br/>
 
