@@ -40,7 +40,7 @@ i just keep going, quietly, at my own pace.
 
 <div align="right">
 
-[![Telegram](https://img.shields.io/badge/telegram-9B7B8C?style=flat-square&logo=telegram&logoColor=F5EDF1)](https://t.me/kitsumii02)
+[![Telegram](https://img.shields.io/badge/telegram-9B7B8C?style=flat-square&logo=telegram&logoColor=F5EDF1)](https://t.me/kitsuneee02)
 [![Youtube](https://img.shields.io/badge/youtube-9B7B8C?style=flat-square&logo=youtube&logoColor=F5EDF1)](https://www.youtube.com/@ikitsunee02)
 [![Email](https://img.shields.io/badge/protonmail-9B7B8C?style=flat-square&logo=protonmail&logoColor=F5EDF1)](mailto:kitsunee02@proton.me)
 
